@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": mayanksingh-ARlI.aternos.me
-    "port": 19132
-    "version": 1.26.66.1
+    "ip": "mayanksingh-ARlI.aternos.me",
+    "port": "19132",
+    "version": "1.26.66.1",
     "try-creative": false
   },
   "position": {
